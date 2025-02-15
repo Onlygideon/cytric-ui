@@ -1,4 +1,4 @@
-export const BASE_URL = process.env.REACT_APP_SERVER_BASE_URL;
+export const BASE_URL = import.meta.env.VITE_API_URL;
 
 export const CONTRACT_ADDRESS = "0x743F49311A82fe72eb474c44e78Da2A6e0AE951c";
 
