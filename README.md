@@ -1,7 +1,7 @@
 # Cytric NFT Minting App
 
 ## Overview
-This is a nft minting app that majorly uses rainbowkit, wagmi, viem, sepolia testnet network, reactjs, tailwind css, nodejs, expressjs, mongodb, and swagger.
+This is an all devices responsive nft minting app that majorly uses rainbowkit, wagmi, viem, sepolia testnet network, reactjs, tailwind css, nodejs, expressjs, mongodb, and swagger.
 
 ## API Routes
 The backend provides the following API endpoints:
